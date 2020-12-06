@@ -30,4 +30,5 @@ When the goal dollar amount is higher, especially greater than $45,000, the succ
 The dataset is overly simplistic for the purpose of understanding what makes a project successful. There is a lack of other relevant variables. Other than the date the project is launched or the goal it has, there many other factors that could impact its outcome, such as the experience of the proposer in similar projects, cast, runtime, the genre, quality of the script, etc.
 
 - What are some other possible tables and/or graphs that we could create?
+
 We could attempt to analyze the impact of the deadline, location (country), spot light, etc. Basically, we can go through each variable provided, chart it to see if there is any trend that can be identified. Then, proving it by a regression analysis to see which one truly had a significant impact.
