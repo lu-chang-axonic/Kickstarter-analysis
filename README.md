@@ -26,6 +26,7 @@ When the goal dollar amount is lower, especially less than $5000, the successful
 When the goal dollar amount is higher, especially greater than $45,000, the successful rate is very low. 
 
 - What are some limitations of this dataset?
+
 The dataset is overly simplistic for the purpose of understanding what makes a project successful. There is a lack of other relevant variables. Other than the date the project is launched or the goal it has, there many other factors that could impact its outcome, such as the experience of the proposer in similar projects, cast, runtime, the genre, quality of the script, etc.
 
 - What are some other possible tables and/or graphs that we could create?
