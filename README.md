@@ -1,14 +1,22 @@
 # Kickstarting with Excel
 
 ## Overview of Project
-
+The project uses the Kickstarter dataset to help Louise to understand how different campaigns fared in relation to their launch dates and their funding goals. It requires technical skills in using Excel, Git Hub, Paint to construct the analysis and deliver the results. 
 ### Purpose
+
+The purpose of this exercise is to use one’s knowledge of pivot tables and graphing in Excel to visualize campaign outcomes ("successful," "failed," and "canceled") based on launch date and goal. 
 
 ## Analysis and Challenges
 
+Chart the outcome against the launch date, which wasn't provided in correct formate, and the goal. Visualize the outcome to help draw conclusions out of the data.
+
 ### Analysis of Outcomes Based on Launch Date
 
+Launch date were grouped by month to reflect the seasonality.
+
 ### Analysis of Outcomes Based on Goals
+
+Goals were grouped by 12 buckehts to show the correlation between size of the goal and the outcome.
 
 ### Challenges and Difficulties Encountered
 As Excel was a subject that I am very comfortable with, I was going to jump onto the challenge directly based on my past knowledge. This did not work well as the assignment was given in conjunction with the class material, which we didn't go through in the class. It took me awhile to realize that I was supposed to download the data file from the module on the bootcamspot.com. This took me more than one hour to figure out.
